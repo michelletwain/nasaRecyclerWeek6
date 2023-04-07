@@ -32,7 +32,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+![](https://github.com/michelletwain/week5-api/blob/master/api.gif)
 
 GIF created with ScreenToGif
 
